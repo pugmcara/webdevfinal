@@ -1,0 +1,112 @@
+
+
+h1 {
+    color: rgb(94, 90, 107);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.caption {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    background-color: rgb(255, 223, 177);
+    margin-left: 50px;  
+    margin-right: 50px;  
+    padding: 5px 10px ;
+    text-align: center;
+}
+
+.upper {
+    font-size: 1em;
+    text-transform: lowercase;
+    font-weight: 800;
+}
+
+.lower {
+    font-size: 2em;
+    font-weight: 100;
+    text-transform: lowercase;
+}
+
+.header {
+    overflow: hidden;
+    background-color: rgb(255, 223, 177);
+    padding: 15px 10px;
+}
+
+.clicked {
+    text-decoration: none;
+    color: rgb(94, 90, 107);
+    text-align: center;
+}
+
+body {
+    background-image: url(../images/sunrise.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.footers {
+    overflow: hidden;
+    background-color: rgb(255, 223, 177);
+    padding: 15px 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    text-transform: lowercase;
+    text-align: center;
+}
+
+.footerclicked {
+    color: rgb(94, 90, 107);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.topcenterabout {
+    float: left;
+    display: block;
+    position: absolute;
+    top: 26%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: rgb(94, 90, 107);
+    text-decoration: none;
+    list-style-type: none;
+    text-transform: lowercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.topcenterresume {
+    float: left;
+    display: block;
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(94, 90, 107);
+    text-decoration: none;
+    list-style-type: none;
+    text-transform: lowercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.topcentertableau {
+    float: left;
+    display: block;
+    position: absolute;
+    top: 26%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    color: rgb(94, 90, 107);
+    text-decoration: none;
+    list-style-type: none;
+    text-transform: lowercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.tableaudiv {
+    padding: 15px 7px;
+    margin-right: 10px;
+    margin-left: 10px;
+}

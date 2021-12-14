@@ -1,0 +1,66 @@
+body {
+    background-image: url(../images/sunrise.jpeg)
+    
+}
+
+.backgroundColor {
+    background-color:rgb(255, 223, 177);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+
+}
+
+p {
+    color: rgb(94, 90, 107);
+}
+
+.headers {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    background-color: rgb(255, 223, 177);
+    text-transform: lowercase;
+    text-decoration: none;
+
+}
+
+.newText {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    text-transform: lowercase;
+}
+    
+.head1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    background-color: rgb(255, 223, 177);
+    text-transform: lowercase;
+    text-decoration: none;
+    font-style: oblique;
+}
+
+.head2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    background-color: rgb(255, 223, 177);
+    text-transform: lowercase;
+    text-decoration: none;
+}
+.footers {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(94, 90, 107);
+    text-transform: lowercase;
+    background-color: rgb(255, 223, 177);
+}
+.navText {
+    color: rgb(94, 90, 107);
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    text-transform: lowercase;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.difftext {
+    text-align: right;
+    list-style-type: none;
+}
